@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.top-header{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    padding: 30px;
+}
+.top-header p a{
+    color: aquamarine;
+    font-size: 16px;
+}
